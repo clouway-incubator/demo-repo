@@ -2,3 +2,6 @@ my notes are here
 
 conflicting line 1
 conflicting line 2
+and here is another note
+
+first change from main
