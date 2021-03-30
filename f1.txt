@@ -1,3 +1,4 @@
 my notes are here
 
-and here is another note
+conflicting line 1
+conflicting line 2
