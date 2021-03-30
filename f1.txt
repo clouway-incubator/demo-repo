@@ -1,4 +1,5 @@
 my notes are here
+and here is another note
 
-conflicting line 1
-conflicting line 2
+first change from main
+Modified f1.txt
