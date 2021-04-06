@@ -1,11 +1,15 @@
 my notes are here
+and here is another note
 
-conflicting line 1
-conflicting line 2
 and here is another note
 
 first change from main
+
+added second change from newbranch
+
+made a third (trial) change from newbranch
+
+
 second change from main
-second change from rebase_branch
-thrid change from merge_branch
+
 thrid change from main
